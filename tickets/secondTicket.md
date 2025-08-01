@@ -13,7 +13,7 @@ Dynamic Visualizations
 - Chart function
 - API integration
 
-To see what your final output should be, navigate to `/view` on the [deployed site](https://bandersnatch.herokuapp.com/).
+To see what your final output should be, navigate to `/view` on the [deployed site](https://banderdeploy.onrender.com).
 
 ## Relevant Files
 
