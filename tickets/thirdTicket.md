@@ -13,7 +13,7 @@ Machine Learning Model
 - Model serialization (save and open)
 - API model integration
 
-To see what your final output should be, navigate to `/model` on the [deployed site](https://bandersnatch.herokuapp.com/).
+To see what your final output should be, navigate to `/model` on the [deployed site](https://banderdeploy.onrender.com).
 
 ## Relevant Files
 
