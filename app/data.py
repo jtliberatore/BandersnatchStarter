@@ -14,7 +14,7 @@ class Database:
         self.db = self.client[getenv("MONGO_DB")]
         self.collection = self.db[getenv("MONGO_COLLECTION")]
     
-    #turns monster data into dictionaries and then multiplies them (by amount given)
+    # turns monster data into dictionaries and then multiplies them (by amount given)
     def seed(self, amount):
         monsters = [Monster().to_dict() for _ in range(amount)]
         self.collection.insert_many(monsters)
